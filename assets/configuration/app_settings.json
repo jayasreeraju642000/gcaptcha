@@ -1,0 +1,8 @@
+{
+    "key": "https://emrapi.glitzit.com",
+    "alertDurationInSeconds": 10,
+    "invalidateSessionForAppLostFocusDurationInSeconds": 20,
+    "invalidateSessionForUserInactivityDurationInSeconds": 20,
+    "recaptchaSecretKey": "6LfhjyEpAAAAAPen9vZOcsTVoDJEUQe22FDWxkTw",
+    "recaptchaSiteKey": "6LfhjyEpAAAAALjM9SGA-QdSP7PDexSpU-e2YSjq"
+}

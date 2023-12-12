@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.848" height="19.398" viewBox="0 0 28.848 19.398">
+  <g id="Group_4662" data-name="Group 4662" transform="translate(38.346 -24.75)">
+    <path id="_211776_monitor_icon" data-name="211776_monitor_icon" d="M44.348,113.009V96H16v17.009H26.335v.945h-3.78v.945H37.733v-.945h-3.78v-.945Zm-27.4-16.064H43.4v15.119H16.945Z" transform="translate(-54.096 -71)" fill="#242424" stroke="#242424" stroke-width="0.5"/>
+    <path id="_8666781_activity_health_icon" data-name="8666781_activity_health_icon" d="M10.578,6.86H8.862L7.576,10.72,5,3,3.716,6.86H2" transform="translate(-36.06 26.355)" fill="none" stroke="#242424" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="plus-sign" transform="translate(-22.042 27.834)">
+      <path id="Path_987" data-name="Path 987" d="M9.248,4.621a.809.809,0,0,1-.809.809h-3v3a.809.809,0,1,1-1.617,0v-3h-3a.809.809,0,0,1,0-1.617h3v-3a.809.809,0,0,1,1.618,0v3h3A.809.809,0,0,1,9.248,4.621Z" transform="translate(-0.006)" fill="#242424"/>
+    </g>
+  </g>
+</svg>
