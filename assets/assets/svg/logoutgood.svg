@@ -1,0 +1,10 @@
+<svg id="_353434_power_switch_off_on_icon" data-name="353434_power_switch_off_on_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.71" height="28.71" viewBox="0 0 28.71 28.71">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.149" y1="-0.385" x2="0.888" y2="0.776" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.395" stop-color="#c1245a"/>
+      <stop offset="1" stop-color="#f0137a"/>
+    </linearGradient>
+  </defs>
+  <path id="_353434_power_switch_off_on_icon-2" data-name="353434_power_switch_off_on_icon" d="M35.884,21.529A14.355,14.355,0,1,0,21.529,35.884,14.371,14.371,0,0,0,35.884,21.529Zm-12.946-.022a1.362,1.362,0,1,1-2.725,0V14.422a1.362,1.362,0,1,1,2.725,0Zm7.86.046A9.27,9.27,0,1,1,14.978,15,1.362,1.362,0,1,1,16.9,16.923a6.544,6.544,0,1,0,9.254,0A1.363,1.363,0,0,1,28.085,15,9.212,9.212,0,0,1,30.8,21.553Z" transform="translate(-7.174 -7.174)" fill="url(#linear-gradient)"/>
+</svg>
